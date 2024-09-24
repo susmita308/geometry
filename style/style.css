@@ -1,0 +1,60 @@
+.f-input {
+  width: 5%;
+  padding: 2px;
+  font-size: small;
+  border-radius: 3px;
+}
+.s-input {
+  width: 5%;
+  padding: 2px;
+  font-size: small;
+  border-radius: 3px;
+}
+.btn {
+  background-color: rgb(17, 17, 197);
+  color: white;
+  border: none;
+  padding: 10px;
+  text-align: center;
+  margin-left: 35px;
+}
+.f-span {
+  margin-right: 5px;
+  margin-left: 3px;
+}
+.triangle {
+  background-color: white;
+border: 3px solid whitesmoke;
+  width: 90%;
+}
+.shape-container {
+  display: flex;
+  gap:7px;
+}
+.top-div {
+  display: flex;
+  gap: 10px;
+}
+nav{display: flex;
+align-items: center;
+background-color: cadetblue;
+border-radius: 5px;
+justify-content: space-between;
+margin: 0px 50px;}
+.btn1{background-color: blue;
+  border-radius: 5px;
+  margin-right: 20px;
+  padding: 15px 35px;
+color: antiquewhite;
+font-size: 20px;
+border: 0;
+font-weight: 700;}
+main{margin: 0px 50px;}
+.h2{margin-left: 20px;
+font-size: 40px;
+}
+.area{border: 3px solid whitesmoke;}
+.area-head{margin-left: 30px;
+margin-right: 20px;}
+.img{margin: 50px;}
+.trian{text-align: center;}
